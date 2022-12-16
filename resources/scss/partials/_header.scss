@@ -1,0 +1,13 @@
+ul {
+    li>a {
+        border: 1px white;
+    }
+    li>a:hover{
+        border-bottom: 1px solid blue;
+    }
+}
+
+#navbarSupportedContent {
+    height: 100%;
+}
+

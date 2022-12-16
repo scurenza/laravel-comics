@@ -1,0 +1,17 @@
+.comic-card {
+    min-height: 800px;
+    position: relative;
+
+    .price {
+        text-decoration: none;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.575);
+        padding: .6rem 1.3rem;
+        border-radius: 15px;
+
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        transform: translate(-30%, -50%);
+    }
+}

@@ -1,0 +1,13 @@
+.banner {
+    height: 30vh;
+    width: 100%;
+
+    background-image: url(../img/jumbotron.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    img{
+        
+        max-height: 100%;
+    }
+}
